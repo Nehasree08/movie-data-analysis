@@ -158,13 +158,4 @@ notebooks/analysis.ipynb
 
 ---
 
-## Resume Description
 
-Built an end-to-end Python data analysis pipeline to clean, process, and visualize movie catalog datasets using Pandas, Matplotlib, and Seaborn.
-
----
-
-## License
-
-Educational and portfolio use only.
-````
