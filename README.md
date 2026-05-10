@@ -1,4 +1,3 @@
-````markdown
 # Movie Catalog Data Cleaning and Visualization
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue)
@@ -137,6 +136,22 @@ notebooks/analysis.ipynb
 
 ---
 
+## Sample Visualizations
+
+### Release Year Histogram
+![Histogram](visuals/histogram_release_year.png)
+
+### Certificate Distribution Count Plot
+![Count Plot](visuals/countplot_content_type.png)
+
+### Runtime vs Year Scatter Plot
+![Scatter Plot](visuals/scatter_year_vs_duration.png)
+
+### Correlation Heatmap
+![Heatmap](visuals/correlation_heatmap.png)
+
+---
+
 ## Libraries Used
 
 | Library | Purpose |
@@ -158,12 +173,3 @@ notebooks/analysis.ipynb
 
 ---
 
-## Resume Description
-
-Built an end-to-end Python data analysis pipeline to clean, process, and visualize movie catalog datasets using Pandas, Matplotlib, and Seaborn.
-
----
-
-## License
-
-This project is intended for educational and portfolio purposes.
